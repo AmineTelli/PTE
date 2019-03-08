@@ -1,0 +1,25 @@
+body{
+background: #cdcdcd;
+} 
+	.nav>li>a {
+color : black;
+font-style: italic;
+text-align: center;
+font-size: 15px;
+font-weight: bold;
+}
+.nav>li>a:hover {
+color : white;
+text-decoration: none;
+background-color: transparent;
+font-size: 18px;
+}
+img {
+	width: 100%
+}
+.menu {
+	color : white;
+	font-size: 20px;
+	position: absolute;
+	right: 500%;
+}
